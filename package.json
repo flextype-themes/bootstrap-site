@@ -1,8 +1,8 @@
 {
-  "name": "Noir",
-  "version": "1.0.1",
-  "description": "Noir theme for Flextype.",
-  "homepage": "http://flextype.org",
+  "name": "Bootstrap Site",
+  "version": "1.0.0",
+  "description": "Twitter Bootstrap Site theme for Flextype.",
+  "homepage": "https://flextype.org",
   "author": "Sergey Romanenko",
   "license": "MIT",
   "keywords": [
@@ -14,7 +14,7 @@
     "html"
   ],
   "bugs": {
-    "url": "https://github.com/flextype-themes/noir/issues"
+    "url": "https://github.com/flextype-themes/bootstrap-site/issues"
   },
   "dependencies": {
     "gulp": "^4.0.2",
