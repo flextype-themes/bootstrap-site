@@ -10,7 +10,7 @@
 
 * Fully Responsive
 * Cross browser compatible
-* Powered by Twitter Bootstrap Framework
+* Powered by [Twitter Bootstrap Framework](https://getbootstrap.com)
 
 ## Dependencies
 
@@ -20,7 +20,7 @@ The following dependencies need to be downloaded and installed for Bootstrap Sit
 
 | Item | Version | Download |
 |---|---|---|
-| [flextype](https://github.com/flextype/flextype) | 0.9.8 | [download](https://github.com/flextype/flextype/
+| [flextype](https://github.com/flextype/flextype) | 0.9.8 | [download](https://github.com/flextype/flextype/ |
 | [site](https://github.com/flextype-plugins/site) | >=1.0.0 | [download](https://github.com/flextype-plugins/site/releases) |
 | [twig](https://github.com/flextype-plugins/twig) | >=1.0.0 | [download](https://github.com/flextype-plugins/twig/releases) |
 
@@ -31,6 +31,8 @@ The following dependencies need to be downloaded and installed for Bootstrap Sit
 3. Download Noir Theme and unzip theme to the folder `/project/themes/bootstrap-site`
 4. Update setting `theme` with new value `bootstrap-site` in `/project/config/plugins/site/settings.yaml`
 
+The theme by itself is useful, but you may have an easier time getting up and running by installing a skeleton. The Bootstrap Site Skeleton is a self-contained repository for a complete sites which includes: sample content, configuration, theme, and plugins.
+
 ## LICENSE
-[The MIT License (MIT)](https://github.com/flextype-themes/noir/blob/master/LICENSE.txt)
+[The MIT License (MIT)](https://github.com/flextype-themes/bootstrap-site/blob/master/LICENSE.txt)
 Copyright (c) 2020 [Sergey Romanenko](https://github.com/Awilum)
