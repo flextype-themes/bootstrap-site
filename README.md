@@ -16,8 +16,6 @@
 
 The following dependencies need to be downloaded and installed for Bootstrap Site Theme.
 
-### System
-
 | Item | Version | Download |
 |---|---|---|
 | [flextype](https://github.com/flextype/flextype) | 0.9.8 | [download](https://github.com/flextype/flextype/) |
