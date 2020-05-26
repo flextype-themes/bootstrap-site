@@ -26,7 +26,7 @@ The following dependencies need to be downloaded and installed for Bootstrap Sit
 
 1. Download & Install all required dependencies.
 2. Create new folder `/project/themes/bootstrap-site`
-3. Download Noir Theme and unzip theme to the folder `/project/themes/bootstrap-site`
+3. Download Bootstrap Site Theme and unzip theme to the folder `/project/themes/bootstrap-site`
 4. Update setting `theme` with new value `bootstrap-site` in `/project/config/plugins/site/settings.yaml`
 
 The theme by itself is useful, but you may have an easier time getting up and running by installing a project skeleton for this theme, it is placed in the `_project` folder. The Bootstrap Site Project Skeleton contains: sample content, fieldsets for Admin Panel Plugin. Just copy `_project` folder content into your project folder.
