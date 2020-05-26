@@ -8,6 +8,8 @@
 
 ## Features
 
+* Fully Responsive
+* Cross browser compatible
 * Powered by Twitter Bootstrap Framework
 
 ## Dependencies
