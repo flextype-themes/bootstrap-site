@@ -3,7 +3,7 @@
 ![preview](preview.png)
 
 <p align="center">
-<a href="https://github.com/flextype-themes/bootstrap-site/releases"><img alt="Version" src="https://img.shields.io/github/release/flextype-themes/bootstrap-site.svg?label=version&color=black"></a> <a href="https://github.com/flextype-themes/bootstrap-site"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=black" alt="License"></a> <a href="https://github.com/flextype-themes/bootstrap-site"><img src="https://img.shields.io/github/downloads/flextype-themes/bootstrap-site/total.svg?color=black" alt="Total downloads"></a> <a href="https://github.com/flextype-themes/bootstrap-site"><img src="https://img.shields.io/badge/Flextype-0.9.13-green.svg?color=black" alt="Flextype"></a> <a href=""><img src="https://img.shields.io/discord/423097982498635778.svg?logo=discord&color=black&label=Discord%20Chat" alt="Discord"></a>
+<a href="https://github.com/flextype-themes/bootstrap-site/releases"><img alt="Version" src="https://img.shields.io/github/release/flextype-themes/bootstrap-site.svg?label=version&color=black"></a> <a href="https://github.com/flextype-themes/bootstrap-site"><img src="https://img.shields.io/badge/license-MIT-blue.svg?color=black" alt="License"></a> <a href="https://github.com/flextype-themes/bootstrap-site"><img src="https://img.shields.io/github/downloads/flextype-themes/bootstrap-site/total.svg?color=black" alt="Total downloads"></a> <a href="https://github.com/flextype-themes/bootstrap-site"><img src="https://img.shields.io/badge/Flextype-0.9.14-green.svg?color=black" alt="Flextype"></a> <a href=""><img src="https://img.shields.io/discord/423097982498635778.svg?logo=discord&color=black&label=Discord%20Chat" alt="Discord"></a>
 </p>
 
 ## Features
@@ -18,7 +18,7 @@ The following dependencies need to be downloaded and installed for Bootstrap Sit
 
 | Item | Version | Download |
 |---|---|---|
-| [flextype](https://github.com/flextype/flextype) | 0.9.13 | [download](https://github.com/flextype/flextype/) |
+| [flextype](https://github.com/flextype/flextype) | 0.9.14 | [download](https://github.com/flextype/flextype/) |
 | [site](https://github.com/flextype-plugins/site) | >=1.0.0 | [download](https://github.com/flextype-plugins/site/releases) |
 | [twig](https://github.com/flextype-plugins/twig) | >=1.0.0 | [download](https://github.com/flextype-plugins/twig/releases) |
 
